@@ -38,7 +38,7 @@ Mobile
 ### Links
 
 - Solution URL: [https://github.com/JosephVTX/ip-tracker-app]
-- Live Site URL: [https://josephvtx.github.io/ip-tracker-app]
+- Live Site URL: [https://ip-tracker-app-ten.vercel.app/]
 
 ## My process
 
